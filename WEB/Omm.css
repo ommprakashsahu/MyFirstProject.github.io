@@ -1,0 +1,14 @@
+    body {
+        background-image: url("D:\Omm Prakash Sahu\VS CODE\HTML\Snapchat-949821634.jpg"), url("D:\Omm Prakash Sahu\VS CODE\HTML\IMG_20230705_140655.jpg");
+        background-repeat: repeat, no-repeat;
+        background-color: rgb(220, 29, 29);
+    }
+    
+    li {
+        list-style-position: inside;
+        color: rgb(17, 235, 39);
+    }
+    
+    img {
+        margin-left: 90px;
+    }

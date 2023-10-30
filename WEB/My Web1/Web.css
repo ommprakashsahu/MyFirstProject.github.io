@@ -1,0 +1,14 @@
+body {
+    background-image: url("sriram.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+a {
+    color: rgb(34, 222, 21);
+}
+
+h1 {
+    color: rgb(15, 212, 38);
+}

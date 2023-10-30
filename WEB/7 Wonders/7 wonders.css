@@ -1,0 +1,14 @@
+body {
+    background-image: url("Bg image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h3 {
+    color: rgb(230, 30, 8);
+}
+
+img {
+    image-rendering: auto;
+}
